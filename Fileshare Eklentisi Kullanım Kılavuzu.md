@@ -166,7 +166,6 @@ Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:<br>
 - Misafir Erişebilir: Guest olarak belirlenen kullanıcıların erişim sağlayabilmesine olanak tanır.
 - Dosya boyutunu belirle: Paylaşımın alacağı max boyutu belirlemeye olanak tanır.
 
-<br>
 ![2021-09-15_10-35](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_10-35.png)
 <br>
 
@@ -175,7 +174,6 @@ Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:<br>
 - Paylaşılacak Kullanıcılar: Bu paylaşıma erişebilecek kullanıcıların seçilmesi
 - Paylaşılmayacak Kullanıcılar: Bu paylaşıma erişimi yasaklanmış kullanıcıların seçilmesi
 
-<br>
 ![2021-09-15_10-36](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_10-36.png)
 <br>
 
