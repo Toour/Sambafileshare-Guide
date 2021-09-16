@@ -73,17 +73,19 @@ Boşluklar gerekli seçenekler ile doldurulur. Paylaşım dosya yolu, ağaç dos
 <br>
 
 
-Yukarıdaki görselde domain sunucusu olarak "SambaSunucu01" sunucusu, ağaç için dosya yolu olarak "/srv" dizini ve paylaşım dosya yolu olarak yeni oluşturulmuş "usershares" adlı dizin seçilmiştir. 
+Yukarıdaki görselde domain sunucusu olarak "SambaSunucu01" sunucusu, ağaç için dosya yolu olarak "/srv" dizini ve paylaşım dosya yolu olarak yeni oluşturulmuş "usershares" adlı dizin seçilmiştir. <br>
 
-Gerekli seçimler yapıldıktan sonra **KAYDET** butonu ile ayarlar kaydedilir.
+Gerekli seçimler yapıldıktan sonra **KAYDET** butonu ile ayarlar kaydedilir. <br>
 
-Arayüzde aşağıdaki uyarı ile karşılaşılır. Söylendiği gibi **Acl paketini depodan kur** seçeneği ile gerekli kurulum gerçekleştirilir.
+Arayüzde aşağıdaki uyarı ile karşılaşılır. Söylendiği gibi **Acl paketini depodan kur** seçeneği ile gerekli kurulum gerçekleştirilir. <br>
 
 ![2021-09-15_08-47](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_08-35.png)
+<br>
 
-Gerekli kurulum gerçekleştiğinde paylaşım eklentisinin arayüzü ekranda belirecektir.
+Gerekli kurulum gerçekleştiğinde paylaşım eklentisinin arayüzü ekranda belirecektir.<br>
 
 ![2021-09-15_08-53](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_08-53.png)
+<br>
 
 # 2. Sambafileshare Eklentisi Versiyon 0.45 Kullanım Kılavuzu
 Bu başlık altında eklenti ve özelliklerinin nasıl kullanıldığı anlatılmıştır.<br>
@@ -113,21 +115,20 @@ Klasör oluşturma ana dizin üzerinden gerçekleştirilebildiği gibi, alt klas
 
 
 ## 2.2. Paylaşım Oluşturma
-
-Paylaşım oluşturma işlemi 2 farklı yöntemle gerçekleştirilebilir.
+Paylaşım oluşturma işlemi 2 farklı yöntemle gerçekleştirilebilir.<br>
 
 ### 2.2.1. Yeni Paylaşım Butonu İle Paylaşım Oluşturma
 
-Arayüzde gözüken **+ Yeni Paylaşım** butonu kullanılarak paylaşım oluşturulabilir. 
+Arayüzde gözüken **+ Yeni Paylaşım** butonu kullanılarak paylaşım oluşturulabilir. <br>
 
 ![2021-09-15_09-55](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-55.png)
+<br>
 
-Butona basıldığında paylaşım oluşturma ekranı açılmaktadır. Bu ekranda **Ayarlar** ve **Erişim Yetkileri** adlı 2 farklı sekme bulunmaktadır. 
+Butona basıldığında paylaşım oluşturma ekranı açılmaktadır. Bu ekranda **Ayarlar** ve **Erişim Yetkileri** adlı 2 farklı sekme bulunmaktadır. <br>
 
 #### 2.2.1.1. Ayarlar Sekmesi
 
-Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:
-
+Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:<br>
 - Paylaşım adı: Oluşturulacak paylaşıma verilecek isim.
 - Paylaşım yolu: Oluşturulacak paylaşımın adres gösterdiği dizin.
 - Açıklama: Paylaşım hakkında belirtilecek notlar. (boş bırakılabilir)
@@ -135,43 +136,29 @@ Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:
 - Misafir Erişebilir: Guest olarak belirlenen kullanıcıların erişim sağlayabilmesine olanak tanır.
 - Dosya boyutunu belirle: Paylaşımın alacağı max boyutu belirlemeye olanak tanır.
 
-
-
 ![2021-09-15_10-28](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_10-28.png)
-
-
+<br>
 
 #### 2.2.1.2. Erişim Yetkileri Sekmesi
-
-Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:
-
+Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:<br>
 - Paylaşılacak Kullanıcılar: Bu paylaşıma erişebilecek kullanıcıların seçilmesi
 - Paylaşılmayacak Kullanıcılar: Bu paylaşıma erişimi yasaklanmış kullanıcıların seçilmesi
 
-
-
 ![2021-09-15_10-30](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_10-30.png)
+<br>
 
-
-
-Bu seçenekler istenildiği gibi doldurulduğunda **Kaydet** butonu ile paylaşım oluşturulur.
-
-
+Bu seçenekler istenildiği gibi doldurulduğunda **Kaydet** butonu ile paylaşım oluşturulur.<br>
 
 ### 2.2.2. Klasör Üzerinden Paylaşım Oluşturma
-
-Halihazırda bulunan bir klasör için paylaşım oluşturulabilir. Paylaşım oluşturmak için istenilen klasöre sağ tıklanarak **Paylaşım Oluştur** seçeneği seçilir.
+Halihazırda bulunan bir klasör için paylaşım oluşturulabilir. Paylaşım oluşturmak için istenilen klasöre sağ tıklanarak **Paylaşım Oluştur** seçeneği seçilir.<br>
 
 ![2021-09-15_09-51](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-51.png)
+<br>
 
-
-
-Paylaşım oluşturma ekranında **Ayarlar** ve **Erişim Yetkileri** adlı 2 farklı sekme bulunmaktadır.
+Paylaşım oluşturma ekranında **Ayarlar** ve **Erişim Yetkileri** adlı 2 farklı sekme bulunmaktadır.<br>
 
 #### 2.2.2.1. Ayarlar Sekmesi
-
-Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:
-
+Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:<br>
 - Paylaşım adı: Oluşturulacak paylaşıma verilecek isim.
 - Paylaşım yolu: Dokunulmaz hale gelir. Bu kısım sağ tıklanılan klasör ile otomatik olarak doldurulur.
 - Açıklama: Paylaşım hakkında belirtilecek notlar. (boş bırakılabilir)
@@ -179,70 +166,53 @@ Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:
 - Misafir Erişebilir: Guest olarak belirlenen kullanıcıların erişim sağlayabilmesine olanak tanır.
 - Dosya boyutunu belirle: Paylaşımın alacağı max boyutu belirlemeye olanak tanır.
 
-
-
+<br>
 ![2021-09-15_10-35](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_10-35.png)
-
-
+<br>
 
 #### 2.2.2.2. Erişim Yetkileri Sekmesi
-
-Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:
-
+Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:<br>
 - Paylaşılacak Kullanıcılar: Bu paylaşıma erişebilecek kullanıcıların seçilmesi
 - Paylaşılmayacak Kullanıcılar: Bu paylaşıma erişimi yasaklanmış kullanıcıların seçilmesi
 
-
-
+<br>
 ![2021-09-15_10-36](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_10-36.png)
+<br>
 
-
-
-Bu seçenekler istenildiği gibi doldurulduğunda **Kaydet** butonu ile paylaşım oluşturulur.
-
-
+Bu seçenekler istenildiği gibi doldurulduğunda **Kaydet** butonu ile paylaşım oluşturulur.<br>
 
 ## 2.3. Paylaşımı Düzenleme
-
-Oluşturulan paylaşımın ayarları daha sonradan değiştirilebilir. Bunun için düzenlenmesi istenilen paylaşıma sağ tıklanılır ve **Düzenle** seçeneği seçilir.
+Oluşturulan paylaşımın ayarları daha sonradan değiştirilebilir. Bunun için düzenlenmesi istenilen paylaşıma sağ tıklanılır ve **Düzenle** seçeneği seçilir.<br>
 
 ![2021-09-15_11-15](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-15.png)
+<br>
 
+Açılan pencerede paylaşım oluşturulurken karşılaşılan 2 sekme görüntülenir. <br>
+Ayarlar sekmesinde düzenlenebilecek seçenekler:<br>
+- Açıklama: Paylaşımın açıklaması değiştirilebilir.
+- Keşfedilebilir seçeneği: Kullanıcıların paylaşımı görme özelliği eklenebilir ya da kaldırılabilir.
+- Misafir Erişebilir seçeneği: Misafir kullanıcıların paylaşıma erişimleri değiştirilebilir.
 
-
-Açılan pencerede paylaşım oluşturulurken karşılaşılan 2 sekme görüntülenir. 
-
-Ayarlar sekmesinde düzenlenebilecek seçenekler:
-
-* Açıklama: Paylaşımın açıklaması değiştirilebilir.
-* Keşfedilebilir seçeneği: Kullanıcıların paylaşımı görme özelliği eklenebilir ya da kaldırılabilir.
-* Misafir Erişebilir seçeneği: Misafir kullanıcıların paylaşıma erişimleri değiştirilebilir.
-
+<br>
 ![2021-09-15_11-18](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-18.png)
+<br>
 
+Bu sekme üzerinde **Paylaşım adı** ve **Paylaşım Yolu** değiştirilememektedir.<br>
+Erişim Yetkileri sekmesinde düzenlenebilecek seçenekler:<br>
+- Paylaşılacak Kullanıcılar: Paylaşıma erişebilecek kullanıcılar eklenip çıkarılabilir.
+- Paylaşılmayacak Kullanıcılar: Paylaşıma erişmesi yasak olan kullanıcılar eklenip çıkarılabilir.
 
-
-Bu sekme üzerinde **Paylaşım adı** ve **Paylaşım Yolu** değiştirilememektedir.
-
-Erişim Yetkileri sekmesinde düzenlenebilecek seçenekler:
-
-* Paylaşılacak Kullanıcılar: Paylaşıma erişebilecek kullanıcılar eklenip çıkarılabilir.
-* Paylaşılmayacak Kullanıcılar: Paylaşıma erişmesi yasak olan kullanıcılar eklenip çıkarılabilir.
-
+<br>
 ![2021-09-15_11-19](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-19.png)
-
-
+<br>
 
 ## 2.4 Paylaşım İzinleri
-
- Paylaşımın kullanıcı, grup ve diğer kullanıcılar için erişim izinleri değiştirilebilir. Bunun için paylaşıma sağ tıklanılır ve **Paylaşım İzinleri** seçeneği seçilir.
+Paylaşımın kullanıcı, grup ve diğer kullanıcılar için erişim izinleri değiştirilebilir. Bunun için paylaşıma sağ tıklanılır ve **Paylaşım İzinleri** seçeneği seçilir.<br>
 
 ![2021-09-15_11-24](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-24.png)
+<br>
 
-
-
-Açılan pencerede paylaşım hakkında aşağıdakiler yer alır:
-
+Açılan pencerede paylaşım hakkında aşağıdakiler yer alır:<br>
 - Dosya yolu: Paylaşımın oluşturulduğu dizin 
 - Kullanıcı: Paylaşımın sahibi olan kullanıcı ve yetkileri
 - Grup: Paylaşımın sahibi olan grup ve yetkileri,
@@ -252,201 +222,168 @@ Açılan pencerede paylaşım hakkında aşağıdakiler yer alır:
 - Paylaşım İzinlerini Değiştir butonu: Kullanıcı, Grup ve Diğer için erişim yetkilerinin değiştirilmesi için kullanılır.
 - Alt kısımdaki tablo: Paylaşım için yetki verilen kullanıcı ve gruplar yer alır.
 
+<br>
 ![2021-09-15_11-29](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-29.png)
-
-
+<br>
 
 ### 2.4.1 Paylaşım İzinlerinin Değiştirilmesi
-
-Paylaşım üzerindeki kullanıcı, grup ve diğer kullanıcıların yetkilerinin düzenlenmesi işlemidir. Bu işlem **Paylaşım İzinlerini Değiştir** butonu ile açılan pencerede gerçekleştirilir.
+Paylaşım üzerindeki kullanıcı, grup ve diğer kullanıcıların yetkilerinin düzenlenmesi işlemidir. Bu işlem **Paylaşım İzinlerini Değiştir** butonu ile açılan pencerede gerçekleştirilir.<br>
 
 ![2021-09-15_11-39](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-39.png)
+<br>
 
-
-
-Butona basıldıktan sonra gelen pencere şu şekildedir:
-
+Butona basıldıktan sonra gelen pencere şu şekildedir:<br>
 ![2021-09-15_11-40](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-40.png)
+<br>
 
-
-
-Bu pencerede:
-
+Bu pencerede:<br>
 - User = Kullanıcı (dosya sahibi) için Okuma-Yazma yetkilerini düzenler
 - Group = Grup için Okuma-Yazma yetkilerini düzenler
 - Other = Diğer kullanıcılar için Okuma-Yazma yetkilerini düzenler 
 - Özyineli = Verilen veya alınan izinlerin, paylaşımın bulunduğu dizinin alt dizinleri içinde geçerli olmasını sağlar.
 
-
-
-**Örnek: Paylaşımın Grup ve Diğer Kullanıcılar için Tüm Yetkilerinin Kaldırılması**
-
-Paylaşımın genel görünümü:
+<br>
+**Örnek: Paylaşımın Grup ve Diğer Kullanıcılar için Tüm Yetkilerinin Kaldırılması** <br>
+Paylaşımın genel görünümü: <br>
 
 ![2021-09-15_11-46](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-46.png)
+<br>
 
-İzinler penceresi:
+İzinler penceresi:<br>
 
 ![2021-09-15_11-47](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-47.png)
+<br>
 
-İzinler penceresinden izinlerin değiştirilmesi:
+İzinler penceresinden izinlerin değiştirilmesi:<br>
 
 ![2021-09-15_11-48](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-48.png)
+<br>
 
-Paylaşımın, izinler değiştirildikten sonraki genel görünümü:
+Paylaşımın, izinler değiştirildikten sonraki genel görünümü:<br>
 
 ![2021-09-15_11-49](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-49.png)
-
-
+<br>
 
 ### 2.4.2 Kullanıcıya İzin Ekleme
-
-Paylaşıma kullanıcı atama ve yetkilendirme işlemidir. Bu işlem **Kullanıcıya İzin Ekle** butonu sayesinde gerçekleştirilir.
+Paylaşıma kullanıcı atama ve yetkilendirme işlemidir. Bu işlem **Kullanıcıya İzin Ekle** butonu sayesinde gerçekleştirilir.<br>
 
 ![2021-09-15_11-55](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-55.png)
+<br>
 
-Butona basıldıktan sonra gelen pencere şu şekildedir:
+Butona basıldıktan sonra gelen pencere şu şekildedir:<br>
 
 ![2021-09-15_12-41](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-41.png)
+<br>
 
-
-
-Bu pencerede:
-
+Bu pencerede:<br>
 - Kullanıcı kısmında yetki verilecek kullanıcı seçilir.
 - Okuma seçeneği, seçilen kullanıcıya okuma (Read) yetkisi verir.
 - Yazma seçeneği, seçilen kullanıcıya yazma (Write) yetkisi verir.
 - Özyineli seçeneği, verilen yetkilerin paylaşımın alt dizinlerinde de geçerli olmasını sağlar.
 
-
-
-Bir kullanıcı seçip istenilen yetkiler verildiğinde **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda seçilmiş olan kullanıcı ve o kullanıcıya atanmış izinler görüntülenecektir.
+<br>
+Bir kullanıcı seçip istenilen yetkiler verildiğinde **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda seçilmiş olan kullanıcı ve o kullanıcıya atanmış izinler görüntülenecektir.<br>
 
 ![2021-09-15_12-48](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-48.png)
-
+<br>
 
 
 ### 2.4.3. Kullanıcı İznini Düzenleme
-
-Bu işlem paylaşım üzerindeki kullanıcı izinlerini düzenleme işlemidir. Bunun için **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda istenilen kullanıcıya sağ tıklanılır ve **Düzenle** seçeneği seçilir.   
+Bu işlem paylaşım üzerindeki kullanıcı izinlerini düzenleme işlemidir. Bunun için **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda istenilen kullanıcıya sağ tıklanılır ve **Düzenle** seçeneği seçilir.<br>
 
 ![2021-09-16_08-00](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-49.png)
+<br>
 
-
-
-Daha sonra kullanıcıya istenilen izinler verilir veya çıkartılır. İzinler, özyineli olarak da verilebilir.
+Daha sonra kullanıcıya istenilen izinler verilir veya çıkartılır. İzinler, özyineli olarak da verilebilir.<br>
 
 ![2021-09-15_12-49-1](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-49-1.png)
+<br>
 
-
-
-Düzenle butonu ile izinler kayıt edildiğinde, tabloda kullanıcının izinlerinin değişmiş olduğu gözükmektedir.
+Düzenle butonu ile izinler kayıt edildiğinde, tabloda kullanıcının izinlerinin değişmiş olduğu gözükmektedir.<br>
 
 ![2021-09-15_12-49-2](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-49-2.png)
-
+<br>
 
 
 ### 2.4.4. Kullanıcı İznini Silme
-
-Paylaşımda yetkileri olan kullanıcının yetkilerinin silinmesi işlemidir. Bu işlem **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda kullanıcıya sağ tıklayıp **Sil** ve **Özyineli Sil** işlemleri ile gerçekleştirilir.
+Paylaşımda yetkileri olan kullanıcının yetkilerinin silinmesi işlemidir. Bu işlem **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda kullanıcıya sağ tıklayıp **Sil** ve **Özyineli Sil** işlemleri ile gerçekleştirilir.<br>
 
 - Sil: Kullanıcının geçerli dizin üzerindeki yetkilerinin kaldırılması işlemidir.
 - Özyineli Sil: Kullanıcının geçerli dizin ve tüm alt dizinlerindeki yetkilerinin kaldırılması işlemidir.
 
 ![2021-09-15_12-49-3](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-49-3.png)
-
-
+<br>
 
 ### 2.4.5. Gruba İzin Ekleme
-
-Paylaşım için grup atama ve yetkilendirme işlemidir. Bu işlem **Gruba İzin Ekle** butonu sayesinde gerçekleştirilir.
+Paylaşım için grup atama ve yetkilendirme işlemidir. Bu işlem **Gruba İzin Ekle** butonu sayesinde gerçekleştirilir.<br>
 
 ![2021-09-15_12-50](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-50.png)
+<br>
 
-
-
-Butona basıldıktan sonra karşılaşılan pencere aşağıdaki gibidir:
+Butona basıldıktan sonra karşılaşılan pencere aşağıdaki gibidir:<br>
 
 ![2021-09-15_12-50_1](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-50_1.png)
+<br>
 
-
-
-Bu pencerede:
-
+Bu pencerede:<br>
 - Grup kısmında yetki verilecek grup seçilir.
 - Okuma seçeneği, seçilen gruba okuma (Read) yetkisi verir.
 - Yazma seçeneği, seçilen gruba yazma (Write) yetkisi verir.
 - Özyineli seçeneği, verilen yetkilerin paylaşımın alt dizinlerinde de geçerli olmasını sağlar.
 
-
-
-Bir grup seçip istenilen yetkiler verildiğinde **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda seçilmiş olan grup ve o gruba atanmış izinler görüntülenecektir.
+Bir grup seçip istenilen yetkiler verildiğinde **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda seçilmiş olan grup ve o gruba atanmış izinler görüntülenecektir.<br>
 
 ![2021-09-15_13-04](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_13-04.png)
+<br>
 
-
-
-### 2.4.6.  Grup İznini Düzenleme
-
-Bu işlem paylaşım üzerindeki grubun izinlerini düzenleme işlemidir. Bunun için **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda istenilen gruba sağ tıklanılır ve **Düzenle** seçeneği seçilir.   
+### 2.4.6. Grup İznini Düzenleme
+Bu işlem paylaşım üzerindeki grubun izinlerini düzenleme işlemidir. Bunun için **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda istenilen gruba sağ tıklanılır ve **Düzenle** seçeneği seçilir. <br>
 
 ![2021-09-16_08-22](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-22.png)
+<br>
 
-
-
-Daha sonra gruba istenilen izinler verilir veya çıkartılır. İzinler, özyineli olarak da verilebilir.
+Daha sonra gruba istenilen izinler verilir veya çıkartılır. İzinler, özyineli olarak da verilebilir.<br>
 
 ![2021-09-16_08-26](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-26.png)
+<br>
 
-
-
-Düzenle butonu ile izinler kayıt edildiğinde, tabloda grubun izinlerinin değişmiş olduğu gözükmektedir.
+Düzenle butonu ile izinler kayıt edildiğinde, tabloda grubun izinlerinin değişmiş olduğu gözükmektedir.<br>
 
 ![2021-09-16_08-26_1](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-26_1.png)
-
-
+<br>
 
 ### 2.4.7. Grup İznini Silme
-
-Paylaşımda yetkileri olan grubun yetkilerinin silinmesi işlemidir. Bu işlem **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda gruba sağ tıklayıp **Sil** ve **Özyineli Sil** işlemleri ile gerçekleştirilir.
+Paylaşımda yetkileri olan grubun yetkilerinin silinmesi işlemidir. Bu işlem **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda gruba sağ tıklayıp **Sil** ve **Özyineli Sil** işlemleri ile gerçekleştirilir.<br>
 
 - Sil: Grubun geçerli dizin üzerindeki yetkilerinin kaldırılması işlemidir.
 - Özyineli Sil: Grubun geçerli dizin ve tüm alt dizinlerindeki yetkilerinin kaldırılması işlemidir.
 
 ![2021-09-16_08-32](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-32.png)
-
-
+<br>
 
 ## 2.5. Paylaşımın Boyutunun Ayarlanması
-
-İstenilen paylaşım klasörünün ve alt klasörlerin boyutuna belirli bir kotanın koyulması işlemidir. Bu işlem eklenti arayüzünde paylaşıma sağ tıklayıp **Boyut Ayarla** seçeneği seçilerek gerçekleştirilir. 
+İstenilen paylaşım klasörünün ve alt klasörlerin boyutuna belirli bir kotanın koyulması işlemidir. Bu işlem eklenti arayüzünde paylaşıma sağ tıklayıp **Boyut Ayarla** seçeneği seçilerek gerçekleştirilir. <br>
 
 ![2021-09-16_08-46](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-46.png)
+<br>
 
-
-
-Açılan pencerede paylaşımın referans gösterdiği dosyanın boyutu belirlenir ve **Ayarla** butonu ile kaydedilir.
+Açılan pencerede paylaşımın referans gösterdiği dosyanın boyutu belirlenir ve **Ayarla** butonu ile kaydedilir.<br>
 
 ![2021-09-16_08-48](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-48.png)
+<br>
 
-
-
-Böylelikle paylaşımın adreslediği klasör bir kota kazanmış olur. Kullanıcılar ve gruplar bu klasör (ve alt klasörler) içerisinde dosya yükleme-oluşturma işlemlerinde belirlenmiş boyutu geçemez hale gelir.
-
-
+Böylelikle paylaşımın adreslediği klasör bir kota kazanmış olur. Kullanıcılar ve gruplar bu klasör (ve alt klasörler) içerisinde dosya yükleme-oluşturma işlemlerinde belirlenmiş boyutu geçemez hale gelir.<br>
 
 ## 2.6. Paylaşımın Silinmesi
-
-Kullanılmayan veya istenmeyen paylaşımın kaldırılması işlemidir. Bu işlem eklentinin arayüzünde seçilen paylaşıma sağ tıklayıp **Paylaşımı Sil** seçeneği ile gerçekleştirilir. 
+Kullanılmayan veya istenmeyen paylaşımın kaldırılması işlemidir. Bu işlem eklentinin arayüzünde seçilen paylaşıma sağ tıklayıp **Paylaşımı Sil** seçeneği ile gerçekleştirilir. <br>
 
 ![2021-09-16_08-54](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-54.png)
+<br>
 
-
-
-Bu seçenek seçildiğinde onay penceresi gelir. Onay verildiğinde ise paylaşım silinmiş olur.
+Bu seçenek seçildiğinde onay penceresi gelir. Onay verildiğinde ise paylaşım silinmiş olur.<br>
 
 ![2021-09-16_09-16](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_09-16.png)
-
+<br>
 
 
 
