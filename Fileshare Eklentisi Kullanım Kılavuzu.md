@@ -191,7 +191,6 @@ Ayarlar sekmesinde düzenlenebilecek seçenekler:<br>
 - Keşfedilebilir seçeneği: Kullanıcıların paylaşımı görme özelliği eklenebilir ya da kaldırılabilir.
 - Misafir Erişebilir seçeneği: Misafir kullanıcıların paylaşıma erişimleri değiştirilebilir.
 
-<br>
 ![2021-09-15_11-18](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-18.png)
 <br>
 
@@ -200,7 +199,6 @@ Erişim Yetkileri sekmesinde düzenlenebilecek seçenekler:<br>
 - Paylaşılacak Kullanıcılar: Paylaşıma erişebilecek kullanıcılar eklenip çıkarılabilir.
 - Paylaşılmayacak Kullanıcılar: Paylaşıma erişmesi yasak olan kullanıcılar eklenip çıkarılabilir.
 
-<br>
 ![2021-09-15_11-19](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-19.png)
 <br>
 
@@ -220,7 +218,6 @@ Açılan pencerede paylaşım hakkında aşağıdakiler yer alır:<br>
 - Paylaşım İzinlerini Değiştir butonu: Kullanıcı, Grup ve Diğer için erişim yetkilerinin değiştirilmesi için kullanılır.
 - Alt kısımdaki tablo: Paylaşım için yetki verilen kullanıcı ve gruplar yer alır.
 
-<br>
 ![2021-09-15_11-29](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-29.png)
 <br>
 
