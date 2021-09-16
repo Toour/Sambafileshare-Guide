@@ -1,36 +1,31 @@
-# Sambafileshare Eklentisi Versiyon 0.45 Kullanım Kılavuzu
-
-## Gereklilikler
-
+# Ön Hazırlık Aşaması
+Bu evrede, eklentinin limana ve sunucuya eklenmesi gösterilmektedir. Ayrıca tüm işlemlerin götürülmesi için bazı gereklilikler de listelenmiştir.
+<br>
+## 1-) Gereklilikler
 - Eklentinin kullanılabilmesi için sunucuda **Samba**'nın Samba Sunucusunda yüklü olması gerekmektedir.
 - Samba Sunucusunun Domain Sunucusu ile aynı Domain içerisinde olası gerekmektedir.
+<br>
 
-
-
-
-## Sambafileshare Eklentisinin Limana Eklenmesi
-
-Fileshare eklentisinin Limana eklemek için **Eklenti Mağazasına** gidilir.
-
+## 2-) Sambafileshare Eklentisinin Limana Eklenmesi
+Fileshare eklentisinin Limana eklemek için **Eklenti Mağazasına** gidilir.  
 ![2021-09-14_15-25](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png)
-
-
+<br>
 
 Eklenti Mağazası içerisinde **Eklenti yükle** butonu ile Fileshare eklentisi seçilir ve Limana ekleme işlemi gerçekleştirilir.
 
 ![2021-09-14_15-26](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-26.png)
+<br><br>
 
 ![2021-09-14_15-27](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-27.png)
-
-
+<br>
 
 Yükle butonuna basılır ve karşılaşılan Onay penceresinde **Tamam** seçeneği seçilerek onay verilir. Böylelikle eklenti başarı ile yüklenmiş olur. 
+<br>
 
-Eğer halihazırda fileshare eklentisinin en güncel sürümü limanda yüklü ise "Eklentinin bu sürümü zaten yüklü" uyarısı ile karşılaşılır.
+Eğer halihazırda fileshare eklentisinin en güncel sürümü limanda yüklü ise "Eklentinin bu sürümü zaten yüklü" uyarısı ile karşılaşılır.  
+<br>
 
-
-
-## Sambafileshare Eklentisinin Sunucuya Eklenmesi
+## 3-) Sambafileshare Eklentisinin Sunucuya Eklenmesi
 
 Fileshare eklentisini kullanabilmek için Liman üzerinde eklenmiş bir Samba sunucu bulunması gerekmektedir. Samba sunucusuna tıklanılır ve sunucu detayları seçeneği seçilir.
 
@@ -94,7 +89,7 @@ Gerekli kurulum gerçekleştiğinde paylaşım eklentisinin arayüzü ekranda be
 
 ![2021-09-15_08-53](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_08-53.png)
 
-
+# Sambafileshare Eklentisi Versiyon 0.45 Kullanım Kılavuzu
 
 ## Paylaşım İçin Klasör Oluşturulması
 
