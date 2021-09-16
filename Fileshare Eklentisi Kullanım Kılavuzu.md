@@ -35,51 +35,39 @@ Fileshare eklentisini kullanabilmek için Liman üzerinde eklenmiş bir Samba su
 <br> 
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-28.png" width=300>      
 </p>
-![2021-09-14_15-28](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-28.png)
-<br>
 
 Açılan pencerede **Eklentiler** sekmesine gidilir.
 <br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-40.png" width=300>      
 </p>
-![2021-09-14_15-40](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-40.png)
-<br>
 
 Daha sonra yeşil "+" butonuna basılır.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-41.png" width=300>      
 </p>
-![2021-09-14_15-41](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-41.png)
-<br>
 
 Açılan pencerede Sambafileshare eklentisi seçilir ve ekle butonuna basılır.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-42.png" width=300>      
 </p>
-![2021-09-14_15-42](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-42.png)
-<br>
 
 Eklenti, başarılı bir şekilde yüklendiğinde hem *Eklentiler* sekmesi altında görüntülenecektir hem de sol taraftaki *Sunucu Bilgileri* kısmında eklentinin adı yazacaktır.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-45.png" width=300>      
 </p>
-![2021-09-14_15-45](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-45.png)
-<br>
 
 Sol tarafta bulunan sunucular listesinden sunucu seçilir ve **Sambafileshare** seçeneği seçilir böylelikle sunucu üzerinde fileshare eklentisi arayüzüne geçiş yapılır. <br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-49.png" width=300>      
 </p>
-![2021-09-14_15-49](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-49.png)
-<br>
 
 Açılacak arayüzde kullanıcıdan 3 farklı alan istenmektedir. Bunlar: <br>
 - Kullanılacak Domain sunucusu: Domain eklentisinin kurulu olduğu, içerisinde kullanıcıları ve bilgisayarları barındıran sunucu.
@@ -87,14 +75,14 @@ Açılacak arayüzde kullanıcıdan 3 farklı alan istenmektedir. Bunlar: <br>
 - Paylaşım Dosya Yolu: Kullanıcıların kendi paylaşım klasörlerinin oluşturulduğu dizin. (Sunucu üzerinde farklı bir klasör seçilebilir. MSB tarafında bu kısmı ilgilendiren **Kullanıcı Dizinleri** sekmesi bulunmadığı için şimdilik herhangi bir işlevi yoktur.)
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_08-33.png" width=300>      
 </p>
-![2021-09-15_08-33](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_08-33.png)
-<br>
 
-Boşluklar gerekli seçenekler ile doldurulur. Paylaşım dosya yolu, ağaç dosya yolu ile aynı dizin için belirtilebilir. Fakat kullanıcı paylaşımlarının daha düzenli durması için farklı bir dizinde bir klasör oluşturulup o klasör paylaşım yolu olarak belirtilebilir.
-![2021-09-15_08-34](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_08-34.png)
-<br>
+Boşluklar gerekli seçenekler ile doldurulur. Paylaşım dosya yolu, ağaç dosya yolu ile aynı dizin için belirtilebilir. Fakat kullanıcı paylaşımlarının daha düzenli durması için farklı bir dizinde bir klasör oluşturulup o klasör paylaşım yolu olarak belirtilebilir.<br>
+
+<p align="center">
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_08-34.png" width=300>      
+</p>
 
 
 Yukarıdaki görselde domain sunucusu olarak "SambaSunucu01" sunucusu, ağaç için dosya yolu olarak "/srv" dizini ve paylaşım dosya yolu olarak yeni oluşturulmuş "usershares" adlı dizin seçilmiştir. <br>
@@ -104,18 +92,14 @@ Gerekli seçimler yapıldıktan sonra **KAYDET** butonu ile ayarlar kaydedilir. 
 Arayüzde aşağıdaki uyarı ile karşılaşılır. Söylendiği gibi **Acl paketini depodan kur** seçeneği ile gerekli kurulum gerçekleştirilir. <br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_08-35.png" width=300>      
 </p>
-![2021-09-15_08-47](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_08-35.png)
-<br>
 
 Gerekli kurulum gerçekleştiğinde paylaşım eklentisinin arayüzü ekranda belirecektir.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_08-53.png" width=300>      
 </p>
-![2021-09-15_08-53](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_08-53.png)
-<br>
 
 # 2. Sambafileshare Eklentisi Versiyon 0.45 Kullanım Kılavuzu
 Bu başlık altında eklenti ve özelliklerinin nasıl kullanıldığı anlatılmıştır.<br>
@@ -125,36 +109,27 @@ Paylaşım oluşturulabilmesi için bir klasör oluşturulması gerekmektedir. <
 Bu işlem için Ağaç dosya yolu olarak belirtilen dizine sağ tıklanılır ve **Yeni Klasör** seçeneği seçilir.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-37.png" width=300>      
 </p>
-![2021-09-15_09-37](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-37.png)
-<br>
 
 Klasöre bir isim verildikten sonra **Oluştur** butonuna tıklanılır.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-39.png" width=300>      
 </p>
-![2021-09-15_09-39](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-39.png)
-<br>
 
 Böylelikle klasör başarılı bir şekilde oluşturulur.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-43.png" width=300>      
 </p>
-![2021-09-15_09-43](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-43.png)
-<br>
 
 ### 2.1.1. İç İçe (Nested) Klasör Oluşturma
 Klasör oluşturma ana dizin üzerinden gerçekleştirilebildiği gibi, alt klasörler içerisinde de gerçekleştirilebilir.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-45.png" width=300>      
 </p>
-![2021-09-15_09-45](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-45.png)
-<br>
-
 
 ## 2.2. Paylaşım Oluşturma
 Paylaşım oluşturma işlemi 2 farklı yöntemle gerçekleştirilebilir.<br>
@@ -164,10 +139,8 @@ Paylaşım oluşturma işlemi 2 farklı yöntemle gerçekleştirilebilir.<br>
 Arayüzde gözüken **+ Yeni Paylaşım** butonu kullanılarak paylaşım oluşturulabilir. <br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-55.png" width=300>      
 </p>
-![2021-09-15_09-55](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-55.png)
-<br>
 
 Butona basıldığında paylaşım oluşturma ekranı açılmaktadır. Bu ekranda **Ayarlar** ve **Erişim Yetkileri** adlı 2 farklı sekme bulunmaktadır. <br>
 
@@ -182,10 +155,8 @@ Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:<br>
 - Dosya boyutunu belirle: Paylaşımın alacağı max boyutu belirlemeye olanak tanır.
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_10-28.png" width=300>      
 </p>
-![2021-09-15_10-28](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_10-28.png)
-<br>
 
 #### 2.2.1.2. Erişim Yetkileri Sekmesi
 Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:<br>
@@ -193,10 +164,8 @@ Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:<br>
 - Paylaşılmayacak Kullanıcılar: Bu paylaşıma erişimi yasaklanmış kullanıcıların seçilmesi
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_10-30.png" width=300>      
 </p>
-![2021-09-15_10-30](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_10-30.png)
-<br>
 
 Bu seçenekler istenildiği gibi doldurulduğunda **Kaydet** butonu ile paylaşım oluşturulur.<br>
 
@@ -204,10 +173,8 @@ Bu seçenekler istenildiği gibi doldurulduğunda **Kaydet** butonu ile paylaş�
 Halihazırda bulunan bir klasör için paylaşım oluşturulabilir. Paylaşım oluşturmak için istenilen klasöre sağ tıklanarak **Paylaşım Oluştur** seçeneği seçilir.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-51.png" width=300>      
 </p>
-![2021-09-15_09-51](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-51.png)
-<br>
 
 Paylaşım oluşturma ekranında **Ayarlar** ve **Erişim Yetkileri** adlı 2 farklı sekme bulunmaktadır.<br>
 
@@ -221,10 +188,8 @@ Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:<br>
 - Dosya boyutunu belirle: Paylaşımın alacağı max boyutu belirlemeye olanak tanır.
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_10-35.png" width=300>      
 </p>
-![2021-09-15_10-35](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_10-35.png)
-<br>
 
 #### 2.2.2.2. Erişim Yetkileri Sekmesi
 Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:<br>
