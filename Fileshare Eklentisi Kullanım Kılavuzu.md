@@ -197,10 +197,8 @@ Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:<br>
 - Paylaşılmayacak Kullanıcılar: Bu paylaşıma erişimi yasaklanmış kullanıcıların seçilmesi
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_10-36.png" width=300>      
 </p>
-![2021-09-15_10-36](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_10-36.png)
-<br>
 
 Bu seçenekler istenildiği gibi doldurulduğunda **Kaydet** butonu ile paylaşım oluşturulur.<br>
 
@@ -208,10 +206,8 @@ Bu seçenekler istenildiği gibi doldurulduğunda **Kaydet** butonu ile paylaş�
 Oluşturulan paylaşımın ayarları daha sonradan değiştirilebilir. Bunun için düzenlenmesi istenilen paylaşıma sağ tıklanılır ve **Düzenle** seçeneği seçilir.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-15.png" width=300>      
 </p>
-![2021-09-15_11-15](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-15.png)
-<br>
 
 Açılan pencerede paylaşım oluşturulurken karşılaşılan 2 sekme görüntülenir. <br>
 Ayarlar sekmesinde düzenlenebilecek seçenekler:<br>
@@ -220,10 +216,8 @@ Ayarlar sekmesinde düzenlenebilecek seçenekler:<br>
 - Misafir Erişebilir seçeneği: Misafir kullanıcıların paylaşıma erişimleri değiştirilebilir.
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-18.png" width=300>      
 </p>
-![2021-09-15_11-18](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-18.png)
-<br>
 
 Bu sekme üzerinde **Paylaşım adı** ve **Paylaşım Yolu** değiştirilememektedir.<br>
 Erişim Yetkileri sekmesinde düzenlenebilecek seçenekler:<br>
@@ -231,19 +225,15 @@ Erişim Yetkileri sekmesinde düzenlenebilecek seçenekler:<br>
 - Paylaşılmayacak Kullanıcılar: Paylaşıma erişmesi yasak olan kullanıcılar eklenip çıkarılabilir.
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-19.png" width=300>      
 </p>
-![2021-09-15_11-19](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-19.png)
-<br>
 
 ## 2.4 Paylaşım İzinleri
 Paylaşımın kullanıcı, grup ve diğer kullanıcılar için erişim izinleri değiştirilebilir. Bunun için paylaşıma sağ tıklanılır ve **Paylaşım İzinleri** seçeneği seçilir.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-24.png" width=300>      
 </p>
-![2021-09-15_11-24](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-24.png)
-<br>
 
 Açılan pencerede paylaşım hakkında aşağıdakiler yer alır:<br>
 - Dosya yolu: Paylaşımın oluşturulduğu dizin 
@@ -256,26 +246,20 @@ Açılan pencerede paylaşım hakkında aşağıdakiler yer alır:<br>
 - Alt kısımdaki tablo: Paylaşım için yetki verilen kullanıcı ve gruplar yer alır.
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-29.png" width=300>      
 </p>
-![2021-09-15_11-29](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-29.png)
-<br>
 
 ### 2.4.1 Paylaşım İzinlerinin Değiştirilmesi
 Paylaşım üzerindeki kullanıcı, grup ve diğer kullanıcıların yetkilerinin düzenlenmesi işlemidir. Bu işlem **Paylaşım İzinlerini Değiştir** butonu ile açılan pencerede gerçekleştirilir.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-39.png" width=300>      
 </p>
-![2021-09-15_11-39](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-39.png)
-<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-40.png" width=300>      
 </p>
 Butona basıldıktan sonra gelen pencere şu şekildedir:<br>
-![2021-09-15_11-40](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-40.png)
-<br>
 
 Bu pencerede:<br>
 - User = Kullanıcı (dosya sahibi) için Okuma-Yazma yetkilerini düzenler
@@ -288,51 +272,39 @@ Bu pencerede:<br>
 Paylaşımın genel görünümü: <br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-46.png" width=300>      
 </p>
-![2021-09-15_11-46](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-46.png)
-<br>
 
 İzinler penceresi:<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-47.png" width=300>      
 </p>
-![2021-09-15_11-47](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-47.png)
-<br>
 
 İzinler penceresinden izinlerin değiştirilmesi:<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-48.png" width=300>      
 </p>
-![2021-09-15_11-48](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-48.png)
-<br>
 
 Paylaşımın, izinler değiştirildikten sonraki genel görünümü:<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-49.png" width=300>      
 </p>
-![2021-09-15_11-49](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-49.png)
-<br>
 
 ### 2.4.2 Kullanıcıya İzin Ekleme
 Paylaşıma kullanıcı atama ve yetkilendirme işlemidir. Bu işlem **Kullanıcıya İzin Ekle** butonu sayesinde gerçekleştirilir.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-55.png" width=300>      
 </p>
-![2021-09-15_11-55](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_11-55.png)
-<br>
 
 Butona basıldıktan sonra gelen pencere şu şekildedir:<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-41.png" width=300>      
 </p>
-![2021-09-15_12-41](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-41.png)
-<br>
 
 Bu pencerede:<br>
 - Kullanıcı kısmında yetki verilecek kullanıcı seçilir.
@@ -344,37 +316,28 @@ Bu pencerede:<br>
 Bir kullanıcı seçip istenilen yetkiler verildiğinde **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda seçilmiş olan kullanıcı ve o kullanıcıya atanmış izinler görüntülenecektir.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-48.png" width=300>      
 </p>
-![2021-09-15_12-48](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-48.png)
-<br>
 
 
 ### 2.4.3. Kullanıcı İznini Düzenleme
 Bu işlem paylaşım üzerindeki kullanıcı izinlerini düzenleme işlemidir. Bunun için **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda istenilen kullanıcıya sağ tıklanılır ve **Düzenle** seçeneği seçilir.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-49.png" width=300>      
 </p>
-![2021-09-16_08-00](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-49.png)
-<br>
 
 Daha sonra kullanıcıya istenilen izinler verilir veya çıkartılır. İzinler, özyineli olarak da verilebilir.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-49-1.png" width=300>      
 </p>
-![2021-09-15_12-49-1](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-49-1.png)
-<br>
 
 Düzenle butonu ile izinler kayıt edildiğinde, tabloda kullanıcının izinlerinin değişmiş olduğu gözükmektedir.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-49-2.png" width=300>      
 </p>
-![2021-09-15_12-49-2](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-49-2.png)
-<br>
-
 
 ### 2.4.4. Kullanıcı İznini Silme
 Paylaşımda yetkileri olan kullanıcının yetkilerinin silinmesi işlemidir. Bu işlem **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda kullanıcıya sağ tıklayıp **Sil** ve **Özyineli Sil** işlemleri ile gerçekleştirilir.<br>
@@ -383,27 +346,21 @@ Paylaşımda yetkileri olan kullanıcının yetkilerinin silinmesi işlemidir. B
 - Özyineli Sil: Kullanıcının geçerli dizin ve tüm alt dizinlerindeki yetkilerinin kaldırılması işlemidir.
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-49-3.png" width=300>      
 </p>
-![2021-09-15_12-49-3](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-49-3.png)
-<br>
 
 ### 2.4.5. Gruba İzin Ekleme
 Paylaşım için grup atama ve yetkilendirme işlemidir. Bu işlem **Gruba İzin Ekle** butonu sayesinde gerçekleştirilir.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-50.png" width=300>      
 </p>
-![2021-09-15_12-50](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-50.png)
-<br>
 
 Butona basıldıktan sonra karşılaşılan pencere aşağıdaki gibidir:<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-50_1.png" width=300>      
 </p>
-![2021-09-15_12-50_1](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_12-50_1.png)
-<br>
 
 Bu pencerede:<br>
 - Grup kısmında yetki verilecek grup seçilir.
@@ -414,35 +371,27 @@ Bu pencerede:<br>
 Bir grup seçip istenilen yetkiler verildiğinde **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda seçilmiş olan grup ve o gruba atanmış izinler görüntülenecektir.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_13-04.png" width=300>      
 </p>
-![2021-09-15_13-04](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_13-04.png)
-<br>
 
 ### 2.4.6. Grup İznini Düzenleme
 Bu işlem paylaşım üzerindeki grubun izinlerini düzenleme işlemidir. Bunun için **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda istenilen gruba sağ tıklanılır ve **Düzenle** seçeneği seçilir. <br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-22.png" width=300>      
 </p>
-![2021-09-16_08-22](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-22.png)
-<br>
 
 Daha sonra gruba istenilen izinler verilir veya çıkartılır. İzinler, özyineli olarak da verilebilir.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-26.png" width=300>      
 </p>
-![2021-09-16_08-26](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-26.png)
-<br>
 
 Düzenle butonu ile izinler kayıt edildiğinde, tabloda grubun izinlerinin değişmiş olduğu gözükmektedir.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-26_1.png" width=300>      
 </p>
-![2021-09-16_08-26_1](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-26_1.png)
-<br>
 
 ### 2.4.7. Grup İznini Silme
 Paylaşımda yetkileri olan grubun yetkilerinin silinmesi işlemidir. Bu işlem **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda gruba sağ tıklayıp **Sil** ve **Özyineli Sil** işlemleri ile gerçekleştirilir.<br>
@@ -451,27 +400,21 @@ Paylaşımda yetkileri olan grubun yetkilerinin silinmesi işlemidir. Bu işlem 
 - Özyineli Sil: Grubun geçerli dizin ve tüm alt dizinlerindeki yetkilerinin kaldırılması işlemidir.
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-32.png" width=300>      
 </p>
-![2021-09-16_08-32](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-32.png)
-<br>
 
 ## 2.5. Paylaşımın Boyutunun Ayarlanması
 İstenilen paylaşım klasörünün ve alt klasörlerin boyutuna belirli bir kotanın koyulması işlemidir. Bu işlem eklenti arayüzünde paylaşıma sağ tıklayıp **Boyut Ayarla** seçeneği seçilerek gerçekleştirilir. <br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-46.png" width=300>      
 </p>
-![2021-09-16_08-46](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-46.png)
-<br>
 
 Açılan pencerede paylaşımın referans gösterdiği dosyanın boyutu belirlenir ve **Ayarla** butonu ile kaydedilir.<br>
 
 <p align="center">
-<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-48.png" width=300>      
 </p>
-![2021-09-16_08-48](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-16_08-48.png)
-<br>
 
 Böylelikle paylaşımın adreslediği klasör bir kota kazanmış olur. Kullanıcılar ve gruplar bu klasör (ve alt klasörler) içerisinde dosya yükleme-oluşturma işlemlerinde belirlenmiş boyutu geçemez hale gelir.<br>
 
