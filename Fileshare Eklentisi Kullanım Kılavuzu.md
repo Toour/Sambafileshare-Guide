@@ -1,12 +1,13 @@
-# Ön Hazırlık Aşaması
+# 1. Ön Hazırlık Aşaması
 Bu evrede, eklentinin limana ve sunucuya eklenmesi gösterilmektedir. Ayrıca tüm işlemlerin götürülmesi için bazı gereklilikler de listelenmiştir.
 <br>
-## 1-) Gereklilikler
-- Eklentinin kullanılabilmesi için sunucuda **Samba**'nın Samba Sunucusunda yüklü olması gerekmektedir.
-- Samba Sunucusunun Domain Sunucusu ile aynı Domain içerisinde olası gerekmektedir.
+
+## 1.1. Gereklilikler
+- Eklentinin kullanılabilmesi için **Samba**'nın sunucuda yüklü olması gerekmektedir.
+- Samba Sunucusunun Domain Sunucusu ile aynı Domain içerisinde olması gerekmektedir.
 <br>
 
-## 2-) Sambafileshare Eklentisinin Limana Eklenmesi
+## 1.2. Sambafileshare Eklentisinin Limana Eklenmesi
 Fileshare eklentisinin Limana eklemek için **Eklenti Mağazasına** gidilir.  
 ![2021-09-14_15-25](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png)
 <br>
@@ -22,59 +23,54 @@ Eklenti Mağazası içerisinde **Eklenti yükle** butonu ile Fileshare eklentisi
 Yükle butonuna basılır ve karşılaşılan Onay penceresinde **Tamam** seçeneği seçilerek onay verilir. Böylelikle eklenti başarı ile yüklenmiş olur. 
 <br>
 
-Eğer halihazırda fileshare eklentisinin en güncel sürümü limanda yüklü ise "Eklentinin bu sürümü zaten yüklü" uyarısı ile karşılaşılır.  
+Eğer halihazırda fileshare eklentisinin en güncel sürümü limanda yüklü ise "*Eklentinin bu sürümü zaten yüklü*" uyarısı ile karşılaşılır.  
 <br>
 
-## 3-) Sambafileshare Eklentisinin Sunucuya Eklenmesi
+## 1.3. Sambafileshare Eklentisinin Sunucuya Eklenmesi
 
 Fileshare eklentisini kullanabilmek için Liman üzerinde eklenmiş bir Samba sunucu bulunması gerekmektedir. Samba sunucusuna tıklanılır ve sunucu detayları seçeneği seçilir.
+<br> 
 
 ![2021-09-14_15-28](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-28.png)
-
-
+<br>
 
 Açılan pencerede **Eklentiler** sekmesine gidilir.
+<br>
 
 ![2021-09-14_15-40](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-40.png)
+<br>
 
-
-
-Daha sonra yeşil "+" butonuna basılır.
+Daha sonra yeşil "+" butonuna basılır.<br>
 
 ![2021-09-14_15-41](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-41.png)
+<br>
 
-
-
-Açılan pencerede Sambafileshare eklentisi seçilir ve ekle butonuna basılır.
+Açılan pencerede Sambafileshare eklentisi seçilir ve ekle butonuna basılır.<br>
 
 ![2021-09-14_15-42](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-42.png)
+<br>
 
-
-
-Eklenti, başarılı bir şekilde yüklendiğinde hem *Eklentiler* sekmesi altında görüntülenecektir hem de sol taraftaki *Sunucu Bilgileri* kısmında eklentinin adı yazacaktır.
+Eklenti, başarılı bir şekilde yüklendiğinde hem *Eklentiler* sekmesi altında görüntülenecektir hem de sol taraftaki *Sunucu Bilgileri* kısmında eklentinin adı yazacaktır.<br>
 
 ![2021-09-14_15-45](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-45.png)
+<br>
 
-
-
-Sol tarafta bulunan sunucular listesinden sunucu seçilir ve **Sambafileshare** seçeneği seçilir böylelikle sunucu üzerinde fileshare eklentisi arayüzüne geçiş yapılır. 
+Sol tarafta bulunan sunucular listesinden sunucu seçilir ve **Sambafileshare** seçeneği seçilir böylelikle sunucu üzerinde fileshare eklentisi arayüzüne geçiş yapılır. <br>
 
 ![2021-09-14_15-49](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-49.png)
+<br>
 
-
-
-Açılacak arayüzde kullanıcıdan 3 farklı alan istenmektedir. Bunlar:
-
+Açılacak arayüzde kullanıcıdan 3 farklı alan istenmektedir. Bunlar: <br>
 - Kullanılacak Domain sunucusu: Domain eklentisinin kurulu olduğu, içerisinde kullanıcıları ve bilgisayarları barındıran sunucu.
 - Ağaç için dosya yolu: Paylaşımların tutulacağı dizin
 - Paylaşım Dosya Yolu: Kullanıcıların kendi paylaşım klasörlerinin oluşturulduğu dizin. (Sunucu üzerinde farklı bir klasör seçilebilir. MSB tarafında bu kısmı ilgilendiren **Kullanıcı Dizinleri** sekmesi bulunmadığı için şimdilik herhangi bir işlevi yoktur.)
 
 ![2021-09-15_08-33](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_08-33.png)
+<br>
 
 Boşluklar gerekli seçenekler ile doldurulur. Paylaşım dosya yolu, ağaç dosya yolu ile aynı dizin için belirtilebilir. Fakat kullanıcı paylaşımlarının daha düzenli durması için farklı bir dizinde bir klasör oluşturulup o klasör paylaşım yolu olarak belirtilebilir.
-
 ![2021-09-15_08-34](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_08-34.png)
-
+<br>
 
 
 Yukarıdaki görselde domain sunucusu olarak "SambaSunucu01" sunucusu, ağaç için dosya yolu olarak "/srv" dizini ve paylaşım dosya yolu olarak yeni oluşturulmuş "usershares" adlı dizin seçilmiştir. 
@@ -89,43 +85,38 @@ Gerekli kurulum gerçekleştiğinde paylaşım eklentisinin arayüzü ekranda be
 
 ![2021-09-15_08-53](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_08-53.png)
 
-# Sambafileshare Eklentisi Versiyon 0.45 Kullanım Kılavuzu
+# 2. Sambafileshare Eklentisi Versiyon 0.45 Kullanım Kılavuzu
+Bu başlık altında eklenti ve özelliklerinin nasıl kullanıldığı anlatılmıştır.<br>
 
-## Paylaşım İçin Klasör Oluşturulması
-
-Paylaşım oluşturulabilmesi için bir klasör oluşturulması gerekmektedir. 
-
-Bu işlem için Ağaç dosya yolu olarak belirtilen dizine sağ tıklanılır ve **Yeni Klasör** seçeneği seçilir.
+## 2.1. Paylaşım İçin Klasör Oluşturulması
+Paylaşım oluşturulabilmesi için bir klasör oluşturulması gerekmektedir. <br>
+Bu işlem için Ağaç dosya yolu olarak belirtilen dizine sağ tıklanılır ve **Yeni Klasör** seçeneği seçilir.<br>
 
 ![2021-09-15_09-37](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-37.png)
+<br>
 
-
-
-Klasöre bir isim verildikten sonra **Oluştur** butonuna tıklanılır.
+Klasöre bir isim verildikten sonra **Oluştur** butonuna tıklanılır.<br>
 
 ![2021-09-15_09-39](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-39.png)
+<br>
 
-
-
-Böylelikle klasör başarılı bir şekilde oluşturulur.
+Böylelikle klasör başarılı bir şekilde oluşturulur.<br>
 
 ![2021-09-15_09-43](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-43.png)
+<br>
 
-
-
-### İç İçe Klasör Oluşturma
-
-Klasör oluşturma ana dizin üzerinden gerçekleştirilebildiği gibi, alt klasörler içerisinde de gerçekleştirilebilir.
+### 2.1.2. İç İçe (Nested) Klasör Oluşturma
+Klasör oluşturma ana dizin üzerinden gerçekleştirilebildiği gibi, alt klasörler içerisinde de gerçekleştirilebilir.<br>
 
 ![2021-09-15_09-45](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-45.png)
+<br>
 
 
-
-## Paylaşım Oluşturma
+## 2.2. Paylaşım Oluşturma
 
 Paylaşım oluşturma işlemi 2 farklı yöntemle gerçekleştirilebilir.
 
-### Yeni Paylaşım Butonu İle Paylaşım Oluşturma
+### 2.2.1. Yeni Paylaşım Butonu İle Paylaşım Oluşturma
 
 Arayüzde gözüken **+ Yeni Paylaşım** butonu kullanılarak paylaşım oluşturulabilir. 
 
@@ -133,7 +124,7 @@ Arayüzde gözüken **+ Yeni Paylaşım** butonu kullanılarak paylaşım oluşt
 
 Butona basıldığında paylaşım oluşturma ekranı açılmaktadır. Bu ekranda **Ayarlar** ve **Erişim Yetkileri** adlı 2 farklı sekme bulunmaktadır. 
 
-#### Ayarlar Sekmesi
+#### 2.2.1.1. Ayarlar Sekmesi
 
 Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:
 
@@ -150,7 +141,7 @@ Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:
 
 
 
-#### Erişim Yetkileri Sekmesi
+#### 2.2.1.2. Erişim Yetkileri Sekmesi
 
 Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:
 
@@ -167,7 +158,7 @@ Bu seçenekler istenildiği gibi doldurulduğunda **Kaydet** butonu ile paylaş�
 
 
 
-### Klasör Üzerinden Paylaşım Oluşturma
+### 2.2.2. Klasör Üzerinden Paylaşım Oluşturma
 
 Halihazırda bulunan bir klasör için paylaşım oluşturulabilir. Paylaşım oluşturmak için istenilen klasöre sağ tıklanarak **Paylaşım Oluştur** seçeneği seçilir.
 
@@ -177,7 +168,7 @@ Halihazırda bulunan bir klasör için paylaşım oluşturulabilir. Paylaşım o
 
 Paylaşım oluşturma ekranında **Ayarlar** ve **Erişim Yetkileri** adlı 2 farklı sekme bulunmaktadır.
 
-#### Ayarlar Sekmesi
+#### 2.2.2.1. Ayarlar Sekmesi
 
 Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:
 
@@ -194,7 +185,7 @@ Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:
 
 
 
-#### Erişim Yetkileri Sekmesi
+#### 2.2.2.2. Erişim Yetkileri Sekmesi
 
 Bu sekme üzerinde bulunan seçenekler aşağıdaki gibidir:
 
@@ -211,7 +202,7 @@ Bu seçenekler istenildiği gibi doldurulduğunda **Kaydet** butonu ile paylaş�
 
 
 
-## Paylaşımı Düzenleme
+## 2.3. Paylaşımı Düzenleme
 
 Oluşturulan paylaşımın ayarları daha sonradan değiştirilebilir. Bunun için düzenlenmesi istenilen paylaşıma sağ tıklanılır ve **Düzenle** seçeneği seçilir.
 
@@ -242,7 +233,7 @@ Erişim Yetkileri sekmesinde düzenlenebilecek seçenekler:
 
 
 
-## Paylaşım İzinleri
+## 2.4 Paylaşım İzinleri
 
  Paylaşımın kullanıcı, grup ve diğer kullanıcılar için erişim izinleri değiştirilebilir. Bunun için paylaşıma sağ tıklanılır ve **Paylaşım İzinleri** seçeneği seçilir.
 
@@ -265,7 +256,7 @@ Açılan pencerede paylaşım hakkında aşağıdakiler yer alır:
 
 
 
-### Paylaşım İzinlerinin Değiştirilmesi
+### 2.4.1 Paylaşım İzinlerinin Değiştirilmesi
 
 Paylaşım üzerindeki kullanıcı, grup ve diğer kullanıcıların yetkilerinin düzenlenmesi işlemidir. Bu işlem **Paylaşım İzinlerini Değiştir** butonu ile açılan pencerede gerçekleştirilir.
 
@@ -308,7 +299,7 @@ Paylaşımın, izinler değiştirildikten sonraki genel görünümü:
 
 
 
-### Kullanıcıya İzin Ekleme
+### 2.4.2 Kullanıcıya İzin Ekleme
 
 Paylaşıma kullanıcı atama ve yetkilendirme işlemidir. Bu işlem **Kullanıcıya İzin Ekle** butonu sayesinde gerçekleştirilir.
 
@@ -335,7 +326,7 @@ Bir kullanıcı seçip istenilen yetkiler verildiğinde **Paylaşım İzinleri**
 
 
 
-### Kullanıcı İznini Düzenleme
+### 2.4.3. Kullanıcı İznini Düzenleme
 
 Bu işlem paylaşım üzerindeki kullanıcı izinlerini düzenleme işlemidir. Bunun için **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda istenilen kullanıcıya sağ tıklanılır ve **Düzenle** seçeneği seçilir.   
 
@@ -355,7 +346,7 @@ Düzenle butonu ile izinler kayıt edildiğinde, tabloda kullanıcının izinler
 
 
 
-### Kullanıcı İznini Silme
+### 2.4.4. Kullanıcı İznini Silme
 
 Paylaşımda yetkileri olan kullanıcının yetkilerinin silinmesi işlemidir. Bu işlem **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda kullanıcıya sağ tıklayıp **Sil** ve **Özyineli Sil** işlemleri ile gerçekleştirilir.
 
@@ -366,7 +357,7 @@ Paylaşımda yetkileri olan kullanıcının yetkilerinin silinmesi işlemidir. B
 
 
 
-### Gruba İzin Ekleme
+### 2.4.5. Gruba İzin Ekleme
 
 Paylaşım için grup atama ve yetkilendirme işlemidir. Bu işlem **Gruba İzin Ekle** butonu sayesinde gerçekleştirilir.
 
@@ -395,7 +386,7 @@ Bir grup seçip istenilen yetkiler verildiğinde **Paylaşım İzinleri** pencer
 
 
 
-###  Grup İznini Düzenleme
+### 2.4.6.  Grup İznini Düzenleme
 
 Bu işlem paylaşım üzerindeki grubun izinlerini düzenleme işlemidir. Bunun için **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda istenilen gruba sağ tıklanılır ve **Düzenle** seçeneği seçilir.   
 
@@ -415,7 +406,7 @@ Düzenle butonu ile izinler kayıt edildiğinde, tabloda grubun izinlerinin değ
 
 
 
-### Grup İznini Silme
+### 2.4.7. Grup İznini Silme
 
 Paylaşımda yetkileri olan grubun yetkilerinin silinmesi işlemidir. Bu işlem **Paylaşım İzinleri** penceresinin alt kısmındaki tabloda gruba sağ tıklayıp **Sil** ve **Özyineli Sil** işlemleri ile gerçekleştirilir.
 
@@ -426,7 +417,7 @@ Paylaşımda yetkileri olan grubun yetkilerinin silinmesi işlemidir. Bu işlem 
 
 
 
-## Paylaşımın Boyutunun Ayarlanması
+## 2.5. Paylaşımın Boyutunun Ayarlanması
 
 İstenilen paylaşım klasörünün ve alt klasörlerin boyutuna belirli bir kotanın koyulması işlemidir. Bu işlem eklenti arayüzünde paylaşıma sağ tıklayıp **Boyut Ayarla** seçeneği seçilerek gerçekleştirilir. 
 
@@ -444,7 +435,7 @@ Böylelikle paylaşımın adreslediği klasör bir kota kazanmış olur. Kullan�
 
 
 
-## Paylaşımın Silinmesi
+## 2.6. Paylaşımın Silinmesi
 
 Kullanılmayan veya istenmeyen paylaşımın kaldırılması işlemidir. Bu işlem eklentinin arayüzünde seçilen paylaşıma sağ tıklayıp **Paylaşımı Sil** seçeneği ile gerçekleştirilir. 
 
