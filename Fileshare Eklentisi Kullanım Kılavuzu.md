@@ -105,7 +105,7 @@ Böylelikle klasör başarılı bir şekilde oluşturulur.<br>
 ![2021-09-15_09-43](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-43.png)
 <br>
 
-### 2.1.2. İç İçe (Nested) Klasör Oluşturma
+### 2.1.1. İç İçe (Nested) Klasör Oluşturma
 Klasör oluşturma ana dizin üzerinden gerçekleştirilebildiği gibi, alt klasörler içerisinde de gerçekleştirilebilir.<br>
 
 ![2021-09-15_09-45](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-15_09-45.png)
