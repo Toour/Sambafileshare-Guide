@@ -8,17 +8,21 @@ Bu evrede, eklentinin limana ve sunucuya eklenmesi gösterilmektedir. Ayrıca t�
 <br>
 
 ## 1.2. Sambafileshare Eklentisinin Limana Eklenmesi
-Fileshare eklentisinin Limana eklemek için **Eklenti Mağazasına** gidilir.  
-![2021-09-14_15-25](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png)
-<br>
-
+Fileshare eklentisinin Limana eklemek için **Eklenti Mağazasına** gidilir. 
+<p align="center">
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-25.png" width=300>      
+</p>
+  
 Eklenti Mağazası içerisinde **Eklenti yükle** butonu ile Fileshare eklentisi seçilir ve Limana ekleme işlemi gerçekleştirilir.
 
-![2021-09-14_15-26](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-26.png)
-<br><br>
+<p align="center">
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-26.png" width=600>
+<br>  
+</p>
 
-![2021-09-14_15-27](https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-27.png)
-<br>
+<p align="center">
+<img src="https://github.com/Toour/Sambafileshare-Guide/blob/main/Fileshare%20Fotolar/2021-09-14_15-27.png" width=800>      
+</p>
 
 Yükle butonuna basılır ve karşılaşılan Onay penceresinde **Tamam** seçeneği seçilerek onay verilir. Böylelikle eklenti başarı ile yüklenmiş olur. 
 <br>
